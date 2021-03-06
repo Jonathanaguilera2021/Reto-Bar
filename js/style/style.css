@@ -1,0 +1,5 @@
+.imagen-fondo {
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-image: url("./js/style/img/imagen.jpg") !important;
+}
